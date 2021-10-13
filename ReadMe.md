@@ -1,4 +1,4 @@
-![Alt text](https://github.com/hyper-lynn/hyper-lynn/blob/main/hello-world.gif "Center")
+![Alt text](https://github.com/hyper-lynn/hyper-lynn/blob/main/hw.gif "Center")
 
 <h1 align="center">Hi 👋, I'm Lynn Myat Aung</h1>
 <h3 align="center">Trying to be a Full-Stack Developer</h3>
