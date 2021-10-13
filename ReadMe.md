@@ -1,4 +1,4 @@
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/hyper-lynn/hyper-lynn/blob/main/hello-world.gif 23”>
+![Alt text](https://github.com/hyper-lynn/hyper-lynn/blob/main/hello-world.gif "Title")
 
 <h1 align="center">Hi 👋, I'm Lynn Myat Aung</h1>
 <h3 align="center">Trying to be a Full Stack Developer</h3>
