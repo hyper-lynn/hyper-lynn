@@ -1,7 +1,7 @@
-![Alt text](https://github.com/hyper-lynn/hyper-lynn/blob/main/hello-world.gif "Title")
+![Alt text](https://github.com/hyper-lynn/hyper-lynn/blob/main/hello-world.gif "Center")
 
 <h1 align="center">Hi 👋, I'm Lynn Myat Aung</h1>
-<h3 align="center">Trying to be a Full Stack Developer</h3>
+<h3 align="center">Trying to be a Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-lynn&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-lynn" /> </p>
 
