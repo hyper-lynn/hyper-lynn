@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-lynn&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-lynn" /> </p>
 
 - 🔭 I’m currently working on **MCS - Myanmar Cyber Society**
+- Founder and CEO at <a herf="https://www.facebook.com/Lazyhf2020">Lazy Security</a>
 
 - 📫 How to reach me **lynnmyat49@gmail.com**
 
