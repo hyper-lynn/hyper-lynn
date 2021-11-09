@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyper-lynn&label=Profile%20views&color=0e75b6&style=flat" alt="hyper-lynn" /> </p>
 
 -Founder and CEO at **Lazy Security**
+-
 -Founder and CEO at **Lazy Tech**
 
 - 📫 How to reach me **lynnmyat49@gmail.com**
